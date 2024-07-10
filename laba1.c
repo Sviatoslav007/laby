@@ -1,5 +1,5 @@
 //Sviatoslav Tolstosheiev, Specialty KI-23009
-//Task
+//Task 1
 #include <stdio.h>
 
 int main() {
